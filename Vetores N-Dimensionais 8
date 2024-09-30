@@ -1,3 +1,5 @@
+//8. Soma dos Elementos de Linhas e Colunas:
+
 #include <stdio.h>
 
 int main(){
