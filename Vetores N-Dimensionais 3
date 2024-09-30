@@ -1,4 +1,4 @@
-\\3. Acesso a Elementos Especificos:
+//3. Acesso a Elementos Especificos:
 
 #include <stdio.h>
 
