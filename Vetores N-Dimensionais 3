@@ -1,3 +1,5 @@
+\\3. Acesso a Elementos Especificos:
+
 #include <stdio.h>
 
 int main() {
