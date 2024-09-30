@@ -5,7 +5,7 @@
 int main() {
     int matriz[2][2];
     int matriz2[2][2];
-    int j, i, c=0, det;
+    int j, i, det;
 
 //MATRIZ 1
 
