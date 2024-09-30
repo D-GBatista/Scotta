@@ -5,7 +5,7 @@
 int main() {
     int matriz[2][2];
     int matriz2[2][2];
-    int j, i, det;
+    int j, i;
 
 //MATRIZ 1
 
@@ -27,7 +27,6 @@ int main() {
 
  //PRINTAR DETERMINANTE
 
-    det=(matriz[0][0]*matriz[1][1])-(matriz[0][1]*matriz[1][0]);
-    printf("\nO determinante da matriz 2x2 é: %d", det);
+    printf("\nO determinante da matriz 2x2 é: %d", (matriz[0][0]*matriz[1][1])-(matriz[0][1]*matriz[1][0]));
     return 0;
 }
