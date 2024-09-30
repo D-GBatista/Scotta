@@ -29,7 +29,7 @@ int main() {
             // Inserção das respostas dos alunos
             for (CAlunos = 1; CAlunos <= Alunos; CAlunos++) {
                 Acertos = 0; // Resetando Acertos para cada aluno
-                printf("Respostas do Aluno nº%d:\n", CAlunos);
+                printf("\nRespostas do Aluno nº%d:\n", CAlunos);
 
                 for (int c = 0; c < 5; c++) {
                     do {
