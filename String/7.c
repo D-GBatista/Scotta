@@ -14,7 +14,7 @@ int main() {
     printf("Digite uma palavra de até 15 caracteres: ");
     scanf("%15s", Nome); 
 
-    for(c=strlen(Nome)-1; c>=0; c--){
+    for(c=strlen(Nome)-1; c>=0; c--){//tem que ser -1 por causa do /0
         Inverso[d]=Nome[c];
         d++;
     }
