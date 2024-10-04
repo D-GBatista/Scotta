@@ -10,10 +10,8 @@ int main() {
     printf("Digite uma palavra de até 24 caracteres: ");
     scanf("%24s", Nome); 
 
-    while(c<strlen(Nome)){
-        c++;
-    }
-
+    c=strlen(Nome);
+    
     for(c=c; c>=0; c--){
         printf("%c", Nome[c]);
     }
