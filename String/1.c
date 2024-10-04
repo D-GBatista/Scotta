@@ -1,3 +1,5 @@
+//1) Ler um nome via teclado e imprimir as 3 primeiras letras do nome.
+
 #include <stdio.h>
 #include <math.h>
 
