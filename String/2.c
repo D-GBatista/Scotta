@@ -1,3 +1,5 @@
+//2) Ler nome via teclado, o sexo e idade. Imprimir estes dados.
+
 #include <stdio.h>
 #include <string.h>
 
